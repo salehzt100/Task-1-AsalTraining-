@@ -1,15 +1,20 @@
 from faker import Faker
-import csv
+from typing import Generator
 
-class UserFactory:
 
-    def __init__(self,num,file_name):
-        self.num = num
+class UserFactory():
+
+    def __init__(self, num_users: int, file_name: str) -> None:
+        self.num_users = num_users
         self.file_name = file_name
 
-    def create(self):
+    """
+      generate row of fake data by faker module, and yield each row to addGeneratedUserWithFakerToCsvFile() method
+       to store it in csv file  
+    """
+    def createUserWithFakeData(self)->Generator:
         fake = Faker()
-        for i in range(self.num):
+        for i in range(self.num_users):
             row = [
                 i+1,    #unique
                 fake.first_name(),
@@ -27,10 +32,6 @@ class UserFactory:
                 fake.past_date(),
                 fake.boolean()
             ]
-            with open(f'{self.file_name}', 'a') as csvfile:
-                writer =csv.writer(csvfile,delimiter='|',quoting=csv.QUOTE_ALL)
-                writer.writerow(row)
-
-
+            yield row
 
 
