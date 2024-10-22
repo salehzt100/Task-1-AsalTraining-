@@ -2,6 +2,25 @@ Task Description:
 
 [User Data Generation Script with Logging and CLI Options.pdf](https://github.com/user-attachments/files/17474541/User.Data.Generation.Script.with.Logging.and.CLI.Options.pdf)
 
+
+Default value  
+- --num-users = 1,000,000
+- --file-name = "generated_users.csv"
+  
+Run code in CLI:
+
+```
+python GenerateUser.py 
+```
+Or
+```
+python GenerateUser.py --num-users 10 
+```
+Or
+```
+python GenerateUser.py --num-users 10 --file-name users_file.csv 
+```
+
 Task Output:
 
 
