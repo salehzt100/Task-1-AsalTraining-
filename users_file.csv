@@ -1,0 +1,21 @@
+user_id,first_name,last_name,email,phone_number,date_of_birth,address,city,state,country,zip_code,username,password,account_created,is_active
+"1"|"Carolyn"|"Thompson"|"melinda30@example.com"|"581-973-0654x8593"|"1920-05-21"|"6956 Ryan Plains
+Lake Kristinashire, IA 62651"|"Lake Kevin"|"South Carolina"|"Norway"|"65531"|"debra37"|"#@8eND#m9m"|"2024-09-23"|"False"
+"2"|"Joshua"|"Nunez"|"hhoward@example.org"|"743-493-8220x186"|"2022-11-02"|"Unit 0260 Box 3049
+DPO AP 42772"|"West Tammybury"|"North Carolina"|"Wallis and Futuna"|"32428"|"morgan36"|"N78Vww5Q&v"|"2024-10-06"|"True"
+"3"|"Karen"|"Mitchell"|"catherineprice@example.com"|"433.406.4076x366"|"1911-09-07"|"10732 Stephanie Tunnel Suite 189
+Port Bryceport, NC 23916"|"Thompsonfort"|"New Hampshire"|"Cambodia"|"71401"|"ndavis"|"RH5^6XvTKX"|"2024-09-23"|"False"
+"4"|"James"|"Franco"|"carolyn83@example.com"|"962.355.2673x9784"|"1987-09-16"|"07301 Danielle Ridges
+Hunterburgh, RI 71348"|"South Donaldmouth"|"Utah"|"Tuvalu"|"70151"|"michaelfleming"|"j6LFZyBv#L"|"2024-10-12"|"True"
+"5"|"Marcia"|"Key"|"ebaker@example.com"|"+1-625-584-2489"|"1999-07-06"|"9086 Hall Lodge Suite 379
+Marquezstad, GU 83134"|"South Bruceview"|"New Hampshire"|"Palau"|"97702"|"rclark"|")l6xpDy&K1"|"2024-10-02"|"True"
+"6"|"Dennis"|"Stout"|"davismary@example.org"|"440-472-0279x066"|"2007-02-27"|"94180 Amanda Summit Apt. 558
+Lake Tara, SC 20768"|"West Barry"|"Texas"|"Liechtenstein"|"03624"|"rwalker"|")w!8*Pf*#U"|"2024-10-04"|"False"
+"7"|"Shelly"|"Hudson"|"davidramirez@example.com"|"893-732-3802x52954"|"1978-05-05"|"4922 Jeremy Grove
+Lynchberg, CO 30864"|"South Johnstad"|"Oregon"|"Togo"|"37018"|"martinezcarly"|"^44H3pki3$"|"2024-10-04"|"True"
+"8"|"Christopher"|"Bush"|"millsbrian@example.net"|"001-303-359-0350x6671"|"1993-07-03"|"60772 Bush Park
+Martinezborough, ID 62322"|"North Joshuaview"|"Delaware"|"French Guiana"|"02508"|"laura00"|"*FrVr1Li)4"|"2024-10-01"|"False"
+"9"|"Maria"|"Lewis"|"misty37@example.com"|"439-732-9634x5795"|"1913-08-09"|"39384 Christina Village Suite 521
+Amandastad, WY 52550"|"Port Claudia"|"Idaho"|"Bouvet Island (Bouvetoya)"|"69466"|"stevensonryan"|"TPH2z1yVx!"|"2024-10-19"|"False"
+"10"|"Brian"|"Fischer"|"connietorres@example.com"|"505.991.4969x819"|"1917-12-02"|"USS Martin
+FPO AP 94449"|"Port Jill"|"North Carolina"|"Venezuela"|"91259"|"grahamchelsea"|"_mNIcp#c0F"|"2024-10-03"|"False"

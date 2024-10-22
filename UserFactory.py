@@ -4,9 +4,8 @@ from typing import Generator
 
 class UserFactory():
 
-    def __init__(self, num_users: int, file_name: str) -> None:
+    def __init__(self, num_users: int) -> None:
         self.num_users = num_users
-        self.file_name = file_name
 
     """
       generate row of fake data by faker module, and yield each row to addGeneratedUserWithFakerToCsvFile() method

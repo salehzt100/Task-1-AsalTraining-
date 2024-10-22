@@ -51,7 +51,7 @@ class User:
     """
     @classmethod
     def addGeneratedUserWithFakerToCsvFile(cls):
-        model:callable=UserFactory.UserFactory(cls.num_users,cls.file_name)
+        model:callable=UserFactory.UserFactory(cls.num_users)
         users:Generator=model.createUserWithFakeData()
 
         for user in users:
